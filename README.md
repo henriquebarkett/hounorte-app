@@ -40,7 +40,7 @@
  
 ## 🔗 Links
  * Figma Prototype: https://www.figma.com/file/VGst3s1mVw1f1SZe6ifVJ1/Telas---Hounorte?node-id=0%3A1&t=gPHmQrS5wI2QMkPg-1
- * Repository: https://github.com/amon-mn/hounorte-app
+ * Repository: https://github.com/henriquebarkett/hounorte-app
    
  
 ## 🙋🏻‍♂️ Authors
